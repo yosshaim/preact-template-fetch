@@ -1,4 +1,4 @@
-import { h, Component } from 'preact';
+import { h, render,Component } from 'preact';
 export default class Fetch extends Component {
     constructor(props) {
         super(props);

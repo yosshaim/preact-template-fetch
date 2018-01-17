@@ -1,4 +1,4 @@
-import { h, Component } from 'preact';
+import { h,render} from 'preact';
 import Fetch from './fetch.js';
 
 
